@@ -1,6 +1,8 @@
 # Awesome links about front-end that influenced me and changed the way I think and write code.
 
 ## HTML
+  * [How browsers work](https://docs.google.com/presentation/d/1kjC_L5C-E2Y_wOVkblJxRr6GBgw1V_FBbFI4jAoh688)
+  * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ## CSS
 ### General principles:
@@ -22,12 +24,12 @@
 
 ## JavaScript
   * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  * [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters)
 
 ### TypeScript
   * [What's new in TypeScript](https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript)
 
 ### Functional programming
-  * [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters)
   * [Functional programming for JavaScript people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)
   * [Professor Frisby's most adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
   * [ImmutableJS]
@@ -37,7 +39,6 @@
     * [RxJS 5 Operators By Example](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35)
   * ELM
     * [Elm introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
-
 
 ### MVC Frameworks
   * State management
@@ -83,10 +84,22 @@
   * [React Architecture](https://speakerdeck.com/vjeux/oscon-react-architecture)
   * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 
+### Performance optimizations
+  * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
+  * [Jank Free](http://jankfree.org)
+
 ## Web services
 ### REST
   * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
   * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+### API
+  * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+  * [Google API Design Guide](https://cloud.google.com/apis/design/)
+
+## System Design
+  * [12 factor app](https://12factor.net)
+  * [How to build stable systems](https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4)
 
 ## Processes
 
