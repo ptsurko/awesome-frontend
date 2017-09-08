@@ -45,7 +45,7 @@
   * ELM
     * [Elm introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
 
-### MVC Frameworks
+### Frameworks
   * State management
     * Change detection/Data binding
       * [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
@@ -88,6 +88,11 @@
 #### React
   * [React Architecture](https://speakerdeck.com/vjeux/oscon-react-architecture)
   * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+  * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
+  * Testing React apps
+    * [Eventbrite testing best practives](https://github.com/eventbrite/javascript/blob/master/react/testing.md)
+    * [Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
+
 
 ### Performance optimizations
   * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
