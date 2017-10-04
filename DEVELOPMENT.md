@@ -30,6 +30,9 @@
 ## JavaScript
   * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   * [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters)
+  * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+  * [Pixels are expensive](https://aerotwist.com/blog/pixels-are-expensive/)
+  * [Flip your animations](https://aerotwist.com/blog/flip-your-animations/)
 
 ### TypeScript
   * [What's new in TypeScript](https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript)
@@ -120,3 +123,7 @@
 ### API
   * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
   * [Google API Design Guide](https://cloud.google.com/apis/design/)
+
+## Tools
+  * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+  * [Vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
