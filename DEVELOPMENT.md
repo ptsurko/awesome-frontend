@@ -92,6 +92,7 @@
   * [React Architecture](https://speakerdeck.com/vjeux/oscon-react-architecture)
   * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
   * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
+  * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9)
   * Testing React apps
     * [Eventbrite testing best practives](https://github.com/eventbrite/javascript/blob/master/react/testing.md)
     * [Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
@@ -127,3 +128,4 @@
 ## Tools
   * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
   * [Vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
+  * [Working effectively with iTerm2](http://teohm.com/blog/working-effectively-with-iterm2/)
