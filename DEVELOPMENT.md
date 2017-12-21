@@ -96,6 +96,7 @@
   * Testing React apps
     * [Eventbrite testing best practives](https://github.com/eventbrite/javascript/blob/master/react/testing.md)
     * [Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
+  * [Recommendations for best practices regarding action-creators, reducers, and selectors](https://github.com/reactjs/redux/issues/1171)
 
 
 ### Performance optimizations
