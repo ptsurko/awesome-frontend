@@ -30,11 +30,14 @@
     * [Contextual styling](http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/)
 
 ## JavaScript
+  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
   * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   * [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters)
   * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
   * [Pixels are expensive](https://aerotwist.com/blog/pixels-are-expensive/)
   * [Flip your animations](https://aerotwist.com/blog/flip-your-animations/)
+  * [Оптимизируем веб с Виталием Фридманом: скорость загрузки, память, CPU](https://habr.com/company/jugru/blog/426155/)
+  * [Оптимизируем веб с Виталием Фридманом, — компрессия, картинки, шрифты, фичи HTTP/2 и Resource Hints](https://habr.com/company/jugru/blog/354890/)
 
 ### TypeScript
   * [What's new in TypeScript](https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript)
@@ -174,3 +177,13 @@
 
 # Strategy
   * [Focus on outcome not output](https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes)
+
+
+# AI/ML
+
+# Linear regression
+  
+
+## Bias-variance
+  * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
+  * [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
