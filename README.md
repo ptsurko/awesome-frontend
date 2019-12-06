@@ -181,6 +181,9 @@
     * [Be careful with CTE in PostgreSQL](https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119)
     * [Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)
 
+## Database
+  * [Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers)
+
 ## Database design
   * [Audit table - Storing created/retired dates for a large amount of different entities](https://dba.stackexchange.com/questions/107354/storing-created-retired-dates-for-a-large-amount-of-different-entities/107575#107575)
 
@@ -216,12 +219,19 @@
 
   * [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
   * [Good enough engineering to start an Internet company](https://broadcast.listennotes.com/good-enough-engineering-to-start-an-internet-company-f26be5b01025)
+  * [Stack History: A Timeline of The Top 2019 Unicorn IPO's Tech Stack Evolution](https://stackshare.io/stack-history-timeline-unicorns-ipos-of-2019-tech-stack-evolution)
 
 ## Microservices
-  * 
+  * [The Hardest Part About Microservices: Your Data](https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
+    * DB per service + transaction boundary per service
+    * domain events + message bus (Kafka) + Debezium to support transaction for DB + service bus
 
 ## Job scheduling
   * [We Don’t Run Cron Jobs at Nextdoor](https://engblog.nextdoor.com/we-don-t-run-cron-jobs-at-nextdoor-6f7f9cc62040)
+
+## Big Data
+  * [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)
+  * [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 
 # Tools
   * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
