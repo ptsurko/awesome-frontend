@@ -174,27 +174,28 @@
     * [Python History](http://python-history.blogspot.com/)
     * [Yet another Python internals blog](https://pythoninternal.wordpress.com/)
 
+## Database design
+  * [Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers)
+  * [Audit table - Storing created/retired dates for a large amount of different entities](https://dba.stackexchange.com/questions/107354/storing-created-retired-dates-for-a-large-amount-of-different-entities/107575#107575)
 
-## PostgreSQL
+### PostgreSQL
   * [Better Database Migrations in Postgres](http://www.craigkerstiens.com/2017/09/10/better-postgres-migrations/)
   * Performance
     * [Be careful with CTE in PostgreSQL](https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119)
     * [Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips)
 
-## Database
-  * [Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers)
+### NoSQL
+  *
 
-## Database design
-  * [Audit table - Storing created/retired dates for a large amount of different entities](https://dba.stackexchange.com/questions/107354/storing-created-retired-dates-for-a-large-amount-of-different-entities/107575#107575)
-
-## NoSQL
- * BigTable
+## Distributed systems
+  * [Windows Azure Storage](https://azure.microsoft.com/en-us/blog/sosp-paper-windows-azure-storage-a-highly-available-cloud-storage-service-with-strong-consistency/)
+  * BigTable
    * [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
    * [Key-value stores: BigTable & Dynamo](https://www.slideshare.net/kingherc/bigtable-and-dynamo)
    * [BigTable Model with Cassandra and HBase](http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html)
    * Bloom Filters
    * SSTable
-  
+
 ## Monitoring
   * [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
   * [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
