@@ -140,6 +140,7 @@
   * [express-rest-es2017-boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate)
   * [express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api)
   * [sequelize-express-example](https://github.com/sequelize/express-example)
+  * [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
 
 ### Authentication
   * [How to do Twitter authentication with React and RESTful API](https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb)
@@ -174,9 +175,11 @@
     * [Python History](http://python-history.blogspot.com/)
     * [Yet another Python internals blog](https://pythoninternal.wordpress.com/)
 
-## Database design
+## Database
   * [Database development mistakes made by application developers](https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers)
   * [Audit table - Storing created/retired dates for a large amount of different entities](https://dba.stackexchange.com/questions/107354/storing-created-retired-dates-for-a-large-amount-of-different-entities/107575#107575)
+  * [How to design a product table for many kinds of product where each product has many parameters](https://stackoverflow.com/questions/695752/how-to-design-a-product-table-for-many-kinds-of-product-where-each-product-has-m)
+  * [What are the [dis]advantages of using a key/value table over nullable columns or separate tables?](https://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or)
 
 ### PostgreSQL
   * [Better Database Migrations in Postgres](http://www.craigkerstiens.com/2017/09/10/better-postgres-migrations/)
